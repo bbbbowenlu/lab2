@@ -1,1 +1,30 @@
 
+    
+body {
+  	background-color: lightblue;
+ 	background-size: cover;
+       	text-align: center;
+}
+
+h1 {
+  	color: white;
+  	text-align: center;
+}
+img {
+	width:13%;
+    	height:13%;
+}
+p, caption {
+  	font-family: verdana;
+  	font-size: 20px;
+}
+table, th, td {
+	padding: 20px;
+	text-align: center;
+	color: yellow;
+	border:black; }
+p {
+   	font-style: normal;
+   	color: yellow;
+   	text-align: center;
+}
