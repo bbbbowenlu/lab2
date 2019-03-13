@@ -7,8 +7,11 @@ body {
 }
 
 h1 {
-  	color: white;
+	font-style:normal;
+	font-family:"Times New Roman", Times;
+  	color: red;
   	text-align: center;
+	color: Black;
 }
 img {
 	width:13%;
@@ -28,3 +31,7 @@ p {
    	color: yellow;
    	text-align: center;
 }
+ul{
+	font-family: Georgia, serif;
+	text-align: left;
+	
