@@ -1,5 +1,5 @@
 body {
-  	background-color: lightblue;
+  	background-color: blue;
  	background-size: cover;
        	text-align: center;
 }
@@ -12,18 +12,8 @@ h1 {
 	color: Black;
 }
 img {
-	width:13%;
-    	height:13%;
-}
-p, caption {
-  	font-family: verdana;
-  	font-size: 20px;
-}
-table, th, td {
-	padding: 20px;
-	text-align: center;
-	color: yellow;
-	border:black;
+	width:40%;
+    	height:40%;
 }
 p {
    	font-style: normal;
@@ -32,6 +22,6 @@ p {
 	font-family: "Time New Roman", Times;
 }
 ul{
-	font-family: Georgia, serif;
+	font-family:"Times New Roman", Times;
 	text-align: left;
 }
