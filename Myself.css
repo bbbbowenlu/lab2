@@ -47,8 +47,9 @@ table, th, td {
 	border:black; }
 p {
    	font-style: normal;
-   	color: yellow;
+   	color: Gray;
    	text-align: center;
+	font-family: "Time New Roman", Times;
 }
 ul{
 	font-family: Georgia, serif;
