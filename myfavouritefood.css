@@ -11,35 +11,6 @@ h1 {
   	text-align: center;
 	color: Black;
 }
-h2 {
-	font-style:normal;
-	font-family:"Times New Roman", Times;
-  	color: red;
-  	text-align: center;
-	color: Black;
-}
-h3 {
-	font-style:normal;
-	font-family:"Times New Roman", Times;
-  	color: red;
-  	text-align: center;
-	color: Black;
-}
-h4 {
-	font-style:normal;
-	font-family:"Times New Roman", Times;
-  	color: red;
-  	text-align: center;
-	color: Black;
-}
-h5 {
-	font-style:normal;
-	font-family:"Times New Roman", Times;
-  	color: red;
-  	text-align: center;
-	color: Black;
-}
-	
 img {
 	width:13%;
     	height:13%;
@@ -56,7 +27,7 @@ table, th, td {
 }
 p {
    	font-style: normal;
-   	color: Gray;
+   	color: black;
    	text-align: center;
 	font-family: "Time New Roman", Times;
 }
