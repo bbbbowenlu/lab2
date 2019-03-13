@@ -50,12 +50,6 @@ p, caption {
   	font-family: verdana;
   	font-size: 20px;
 }
-table, th, td {
-	padding: 20px;
-	text-align: center;
-	color: yellow;
-	border:black;
-}
 p {
    	font-style: normal;
    	color: Gray;
@@ -64,5 +58,6 @@ p {
 }
 ul{
 	font-family: Georgia, serif;
-	text-align: left;
+	text-align: center;
+	
 }
