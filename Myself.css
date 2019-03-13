@@ -19,18 +19,28 @@ h2 {
   	color: red;
   	text-align: center;
 	color: Black;
+}
 h3 {
 	font-style:normal;
 	font-family:"Times New Roman", Times;
   	color: red;
   	text-align: center;
 	color: Black;
+}
 h4 {
 	font-style:normal;
 	font-family:"Times New Roman", Times;
   	color: red;
   	text-align: center;
 	color: Black;
+}
+h5 {
+	font-style:normal;
+	font-family:"Times New Roman", Times;
+  	color: red;
+  	text-align: center;
+	color: Black;
+}
 	
 img {
 	width:13%;
@@ -44,7 +54,8 @@ table, th, td {
 	padding: 20px;
 	text-align: center;
 	color: yellow;
-	border:black; }
+	border:black;
+}
 p {
    	font-style: normal;
    	color: Gray;
@@ -54,4 +65,4 @@ p {
 ul{
 	font-family: Georgia, serif;
 	text-align: left;
-	
+}
