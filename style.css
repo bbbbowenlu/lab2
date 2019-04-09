@@ -24,3 +24,8 @@ body{
     margin: 1cm;
     color:black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+ul{
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
