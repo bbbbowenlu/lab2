@@ -1,5 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Heebo');
 
+
+header{
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(to right,lightblue, midnightblue, lightblue);
+    font-family: 'Thasadith';
+}
+
+.footer{
+    text-align: center;
+    background-image: linear-gradient(to right,lightblue, midnightblue, lightblue);
+    color: white;
+    clear: both;
+    height: 30px;
+    line-height: 30px;
+    text-decoration-line: overline underline;
+    text-decoration-style: double;
+    text-decoration-color: white
 image{
   width: 50%;
   margin-left: auto;
