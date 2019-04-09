@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Heebo');
 
-background{
-  background-color:#ff6347;
-}
 image{
   width: 50%;
   margin-left: auto;
@@ -21,4 +18,9 @@ video{
   margin-left: auto;
   margin-right: auto;
 }
-
+body{
+    background-color: lightblue; 
+    text-align: center;
+    margin: 1cm;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
